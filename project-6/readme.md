@@ -1,15 +1,15 @@
 
 ### Activity Diagram
-![Activity Diagram](images/activity-diagram.png)
+![Activity Diagram](../images/activity-diagram.png)
 
 ### Sequence Diagram
-![Sequence Diagram](images/sequence-diagram.png)
+![Sequence Diagram](../images/sequence-diagram.png)
 
 ### State Diagram
-![State Diagram](images/state-diagram.png)
+![State Diagram](../images/state-diagram.png)
 
 ### Class Diagram (Data Model)
-![Class Diagram](images/class-diagram.png)
+![Class Diagram](../images/class-diagram.png)
 
 ## Requirement 2: Project write-up - Libraries
 I used one library called Roles which made it easier to manage AccessControl in my DAPP. It made it easy to add and remove roles in each of my AccessControl contracts (FarmerRole.sol, DistributorRole.sol, RetailerRole.sol, and ConsumerRole.sol).
